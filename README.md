@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 您的Pages网站将使用您在[存储库设置] （https://github.com/admin7788/admin.ruifengkeji.com/settings）中选择的Jekyll主题的布局和样式。这个主题的名称保存在Jekyll`_config.yml`配置文件中
 
-###支持或联系
+###支持或联系：17587327942
 电话
 Pages有问题吗？查看我们的[documentation]（https://help.github.com/categories/github-pages-basics/）或[contact support]（https://github.com/contact），我们将帮助您进行进行排序出来。联系电话：17587327942
